@@ -1,0 +1,12 @@
+﻿[core]
+#PROTECTED
+repositoryFormatVersion=0
+#PROTECTED
+fileMode=true
+#PROTECTED
+bare=true
+#PROTECTED
+logAllRefUpdates=false
+#PROTECTED
+autocrlf=false
+
